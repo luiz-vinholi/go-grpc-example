@@ -8,7 +8,7 @@ import (
 	"google.golang.org/grpc"
 )
 
-var PORT = ":50051"
+var PORT = ":8080"
 
 // StartgGRPC starts the gRPC server
 func StartgGRPCServer() {
